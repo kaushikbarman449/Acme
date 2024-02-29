@@ -1,2 +1,3 @@
 # Acme
-Acme Nextjs application 
+
+Acme Nextjs application
